@@ -2,7 +2,7 @@
 ## Project Overview
 This project contains SQL business queries on an ecommerce database built using PostgresSQL.
 
- Tools Used
+ ## Tools Used
 - PostgresSQL
 - DBeaver
 
